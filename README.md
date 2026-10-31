@@ -1,3 +1,5 @@
+![Python checks](https://github.com/leakquicked/configdiff/actions/workflows/python-checks.yml/badge.svg)
+
 # ConfigDiff
 
 Compare two text configuration files and show changed lines.
